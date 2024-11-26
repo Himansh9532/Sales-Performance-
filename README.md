@@ -4,7 +4,7 @@
 
 This repository contains a **Power BI Sales Performance Dashboard** that analyzes sales, revenue, and gross profit trends. The report is designed to provide actionable insights for stakeholders, enabling data-driven decisions.
 ----
-
+https://github.com/Himansh9532/Sales-Performance-/blob/809b803177b0ddd24a7c0037a0d6bd8b20e57ed6/image/Project_v1_page-0004.jpg
 
 
 
