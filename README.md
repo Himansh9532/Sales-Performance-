@@ -1,8 +1,6 @@
-To analyze the provided report and write a proper **README** for GitHub, I’ll first describe the report's insights, then draft a professional README template.
 
----
 
-### **Report Analysis**
+### **Sales Report Analysis**
 The report provides a comprehensive view of sales performance for the year 2014. Below are the key insights:
 
 1. **Summary Metrics**:
