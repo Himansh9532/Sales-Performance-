@@ -5,7 +5,7 @@ This repository contains a **Power BI Sales Performance Dashboard** that analyze
 ----
 # Sales Performance Dashboard
 
-![Sales Performance Dashboard](./reports/Dashboard_Screenshot.jpg "Power BI Dashboard - Sales Performance")
+![image alt]()
 
 This Power BI dashboard analyzes sales trends, revenue, gross profit, and growth insights to support data-driven decision-making.
 
